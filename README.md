@@ -1,1 +1,3 @@
 # gentooconf
+
+Personal gentoo / files for portage. Don't use unless you want some problems with your own install...
