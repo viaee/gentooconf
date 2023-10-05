@@ -1,0 +1,13 @@
+x11-libs/cairo X
+dev-util/cmake X
+dev-cpp/cairomm X
+app-i18n/fcitx X
+x11-libs/gtk+ X
+dev-cpp/gtkmm X
+media-libs/imlib2 X
+x11-libs/libepoxy X
+media-libs/libepoxy X
+media-libs/libglvnd X
+x11-libs/libva X
+x11-libs/libxkbcommon X
+media-libs/mesa egl X
